@@ -12,10 +12,6 @@
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/terandy/online-store/issues"
-  },
-  "homepage": "https://github.com/terandy/online-store#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
